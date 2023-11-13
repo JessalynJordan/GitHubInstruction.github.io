@@ -1,0 +1,27 @@
+<html>
+<h1> How To Create A GitHub Page</h1>
+<h2>Setting up your GitHub account</h2>
+<ol>Go to GitHub.com; if you have an account already sign in, if not create your an account
+    Establish a username and password
+</ol>
+<h3>Creating a Repository</h3>
+<ol>
+    Once a username and password have been established and you are logged in to your GitHub account navigate to your profile page 
+    Along the top of your profile page will be a link labeled 'Respository'
+    Click on this link to navigate to the Repository page and select the NEW icon
+    Name your repository  <i>yourname.github.io</i>
+    Scroll to the bottom and click the create repository button 
+</ol>
+<h4>Creating a File to Add to your Repository</h4>
+<ol>Open up Visual Studio
+    Create a new folder and a new file within that folder titled index.html 
+    Also have a photo saved to the same folder
+    Input the following code <img src="./GitHubCodeExample.jpg">
+</ol>
+<h5>Uploading the New File into the Repository</h5>
+<ol>Return to your newly created repository on GitHub
+    Under the Quick Setup directions in blue select <i>Upload and existing file</i>
+    Drag and drop your index.html and your picture file into the file upload 
+    Select the commit changes button at the bottom of the page 
+    You can access your new website page at the username.github.io you created earlier
+</ol>
